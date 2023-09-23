@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Smart Internz Assignment 4</string>
+    <string name="title_activity_main2">MainActivity2</string>
+
+    <string-array name="Menu0">
+        <item>Cappuccino</item>
+        <item>Cafe Latte</item>
+        <item>Hot Velvet Coffee</item>
+        <item>Filter Coffee</item>
+        <item>Cafe Americano</item>
+        <item>Espresso</item>
+    </string-array>
+
+    <string-array name="Menu1">
+        <item>Margherita</item>
+        <item>Peppy Paneer</item>
+        <item>Veg Extravaganza</item>
+        <item>Farmhouse</item>
+        <item>Veggie Paradise</item>
+        <item>Indi Tandoori Paneer</item>
+    </string-array>
+
+    <string-array name="Menu2">
+        <item>Single Chicken Roll</item>
+        <item>Regular Popcorn</item>
+        <item>2 Veg Longer Burger</item>
+        <item>Classic Chicken Roll</item>
+        <item>The Allu Arjun Combo</item>
+        <item>Stay Home Bucket</item>
+    </string-array>
+
+    <string-array name="Menu3">
+        <item>Veg Whopper</item>
+        <item>Paneer Royale Burger</item>
+        <item>Chicken Whopper</item>
+        <item>Peri Peri Fires</item>
+        <item>Super Over Combo</item>
+        <item>BK Chicken Burger</item>
+    </string-array>
+
+    <string-array name="Menu4">
+        <item>Chicken Biryani</item>
+        <item>Hyderabadi Biryani</item>
+        <item>Mutton Dum Biryani</item>
+        <item>Egg Biryani</item>
+        <item>Biryani Rice</item>
+        <item>Veg Shahi Biryani</item>
+    </string-array>
+
+    <string-array name="Menu5">
+        <item>Veg Manchurian</item>
+        <item>Paneer Chilly</item>
+        <item>Paneer Tikka</item>
+        <item>Fish Tikka</item>
+        <item>Chapati</item>
+        <item>Butter Naan</item>
+    </string-array>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_cart">CartActivity</string>
+
+</resources>
